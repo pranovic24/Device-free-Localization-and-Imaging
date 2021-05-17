@@ -1,0 +1,54 @@
+[17:30:05:410321] From: Measure23 TX Power: 19.6
+[17:30:05:410321] SSID: Measure25 RSSI: -22
+[17:30:09:093555] From: Measure25 TX Power: 19.6
+[17:30:09:093555] SSID: Measure23 RSSI: -19
+[17:30:11:038680] From: Measure23 TX Power: 19.6
+[17:30:11:038680] SSID: Measure25 RSSI: -19
+[17:30:14:824486] From: Measure25 TX Power: 19.6
+[17:30:14:824486] SSID: Measure23 RSSI: -19
+[17:30:16:668246] From: Measure23 TX Power: 19.6
+[17:30:16:668246] SSID: Measure25 RSSI: -20
+[17:30:20:352018] From: Measure25 TX Power: 19.6
+[17:30:20:352018] SSID: Measure23 RSSI: -19
+[17:30:22:295182] From: Measure23 TX Power: 19.6
+[17:30:22:295182] SSID: Measure25 RSSI: -20
+[17:30:28:127548] From: Measure23 TX Power: 19.6
+[17:30:28:127548] SSID: Measure25 RSSI: -19
+[17:30:31:811660] From: Measure25 TX Power: 19.6
+[17:30:31:811660] SSID: Measure23 RSSI: -19
+[17:30:33:551737] From: Measure23 TX Power: 19.6
+[17:30:33:551737] SSID: Measure25 RSSI: -20
+[17:30:37:235661] From: Measure25 TX Power: 19.6
+[17:30:37:235661] SSID: Measure23 RSSI: -20
+[17:30:39:180409] From: Measure23 TX Power: 19.6
+[17:30:39:180409] SSID: Measure25 RSSI: -24
+[17:30:44:765020] From: Measure23 TX Power: 19.6
+[17:30:44:765020] SSID: Measure25 RSSI: -21
+[17:30:56:032702] From: Measure23 TX Power: 19.6
+[17:30:56:032702] SSID: Measure25 RSSI: -20
+[17:31:01:899641] From: Measure23 TX Power: 19.6
+[17:31:01:899641] SSID: Measure25 RSSI: -24
+[17:31:05:686157] From: Measure25 TX Power: 19.6
+[17:31:05:686157] SSID: Measure23 RSSI: -24
+[17:31:07:526622] From: Measure23 TX Power: 19.6
+[17:31:07:526622] SSID: Measure25 RSSI: -20
+[17:31:11:108904] From: Measure25 TX Power: 19.6
+[17:31:11:108904] SSID: Measure23 RSSI: -19
+[17:31:16:838824] From: Measure25 TX Power: 19.6
+[17:31:16:838824] SSID: Measure23 RSSI: -23
+[17:31:18:884129] From: Measure23 TX Power: 19.6
+[17:31:18:884129] SSID: Measure25 RSSI: -22
+[17:31:29:925751] From: Measure23 TX Power: 19.6
+[17:31:29:925751] SSID: Measure25 RSSI: -19
+[17:31:39:156783] From: Measure25 TX Power: 19.6
+[17:31:39:156783] SSID: Measure23 RSSI: -19
+[17:31:41:194814] From: Measure23 TX Power: 19.6
+[17:31:41:194814] SSID: Measure25 RSSI: -21
+[17:31:50:711851] From: Measure25 TX Power: 19.6
+[17:31:50:711851] SSID: Measure23 RSSI: -19
+[17:31:52:451656] From: Measure23 TX Power: 19.6
+[17:31:52:451656] SSID: Measure25 RSSI: -19
+[17:31:56:057489] From: Measure25 TX Power: 19.6
+[17:31:56:057489] SSID: Measure23 RSSI: -18
+[17:32:01:969905] From: Measure25 TX Power: 19.6
+[17:32:01:969905] SSID: Measure23 RSSI: -20

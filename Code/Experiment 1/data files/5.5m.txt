@@ -1,0 +1,70 @@
+[12:37:01:287451] From: Measure1 TX Power: 19.5
+[12:37:01:287451] SSID: Measure6 RSSI: -55
+[12:37:06:792213] From: Measure1 TX Power: 19.5
+[12:37:06:792213] SSID: Measure6 RSSI: -54
+[12:37:18:139457] From: Measure1 TX Power: 19.5
+[12:37:18:139457] SSID: Measure6 RSSI: -54
+[12:37:20:802276] From: Measure6 TX Power: 19.5
+[12:37:20:802276] SSID: Measure1 RSSI: -55
+[12:37:23:664706] From: Measure1 TX Power: 19.5
+[12:37:23:664706] SSID: Measure6 RSSI: -55
+[12:37:29:292448] From: Measure1 TX Power: 19.5
+[12:37:29:292448] SSID: Measure6 RSSI: -55
+[12:37:40:549624] From: Measure1 TX Power: 19.5
+[12:37:40:549624] SSID: Measure6 RSSI: -54
+[12:37:46:183479] From: Measure1 TX Power: 19.5
+[12:37:46:183479] SSID: Measure6 RSSI: -54
+[12:37:57:741219] From: Measure1 TX Power: 19.5
+[12:37:57:741219] SSID: Measure6 RSSI: -54
+[12:38:00:201562] From: Measure6 TX Power: 19.5
+[12:38:00:201562] SSID: Measure1 RSSI: -55
+[12:38:03:378670] From: Measure1 TX Power: 19.5
+[12:38:03:378670] SSID: Measure6 RSSI: -55
+[12:38:11:562235] From: Measure6 TX Power: 19.5
+[12:38:11:562235] SSID: Measure1 RSSI: -55
+[12:38:28:347291] From: Measure6 TX Power: 19.5
+[12:38:28:347291] SSID: Measure1 RSSI: -55
+[12:38:50:866008] From: Measure6 TX Power: 19.5
+[12:38:50:866008] SSID: Measure1 RSSI: -56
+[12:39:30:565241] From: Measure6 TX Power: 19.5
+[12:39:30:565241] SSID: Measure1 RSSI: -55
+[12:39:33:535493] From: Measure1 TX Power: 19.5
+[12:39:33:535493] SSID: Measure6 RSSI: -55
+[12:39:38:852941] From: Measure1 TX Power: 19.5
+[12:39:38:852941] SSID: Measure6 RSSI: -54
+[12:40:29:611348] From: Measure1 TX Power: 19.5
+[12:40:29:611348] SSID: Measure6 RSSI: -55
+[12:41:11:775815] From: Measure6 TX Power: 19.5
+[12:41:11:775815] SSID: Measure1 RSSI: -55
+[12:41:17:400763] From: Measure6 TX Power: 19.5
+[12:41:17:400763] SSID: Measure1 RSSI: -55
+[12:41:28:659914] From: Measure6 TX Power: 19.5
+[12:41:28:659914] SSID: Measure1 RSSI: -55
+[12:41:31:628186] From: Measure1 TX Power: 19.5
+[12:41:31:628186] SSID: Measure6 RSSI: -54
+[12:41:37:152981] From: Measure1 TX Power: 19.5
+[12:41:37:152981] SSID: Measure6 RSSI: -55
+[12:41:42:780074] From: Measure1 TX Power: 19.5
+[12:41:42:780074] SSID: Measure6 RSSI: -54
+[12:41:45:748521] From: Measure6 TX Power: 19.5
+[12:41:45:748521] SSID: Measure1 RSSI: -56
+[12:41:48:409131] From: Measure1 TX Power: 19.5
+[12:41:48:409131] SSID: Measure6 RSSI: -53
+[12:41:51:169134] From: Measure6 TX Power: 19.5
+[12:41:51:169134] SSID: Measure1 RSSI: -54
+[12:41:54:139995] From: Measure1 TX Power: 19.5
+[12:41:54:139995] SSID: Measure6 RSSI: -55
+[12:41:56:803658] From: Measure6 TX Power: 19.5
+[12:41:56:803658] SSID: Measure1 RSSI: -55
+[12:41:59:768604] From: Measure1 TX Power: 19.5
+[12:41:59:768604] SSID: Measure6 RSSI: -56
+[12:42:02:633659] From: Measure6 TX Power: 19.5
+[12:42:02:633659] SSID: Measure1 RSSI: -55
+[12:42:05:400673] From: Measure1 TX Power: 19.5
+[12:42:05:400673] SSID: Measure6 RSSI: -55
+[12:42:19:320186] From: Measure6 TX Power: 19.5
+[12:42:19:320186] SSID: Measure1 RSSI: -57
+[12:42:22:281452] From: Measure1 TX Power: 19.5
+[12:42:22:281452] SSID: Measure6 RSSI: -55
+[12:42:27:909400] From: Measure1 TX Power: 19.5
+[12:42:27:909400] SSID: Measure6 RSSI: -53

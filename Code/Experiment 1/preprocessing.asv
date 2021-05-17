@@ -1,0 +1,49 @@
+clear all;
+clc; close all;
+
+K = 6;
+
+file = '7.0m.txt';
+A = importdata(file);
+RSSI = A.data;
+words = A.textdata;
+
+%Determining the TX
+device_string = char(words(:,5));
+device = str2num(device_string(:,8:9));
+
+measure_string = char(words(:,5));
+
+TX = ~cellfun('isempty', strfind(cellstr(measure_string),'TX'));
+%TXElement = ~cellfun('isempty', strfind(cellstr(measure_string),'Measure4 TX'));
+
+TXIndex = find(TX == 1);
+RSSIIndex = find(TX == 0);
+
+
+for i = 1:length(TXIndex)-1
+    RSSInumber(i) = (TXIndex(i+1)-TXIndex(i))-1;
+end
+
+RSSInumber = transpose(RSSInumber);
+
+RSSILength = length(RSSI);
+
+RSSInumber = [RSSInumber; RSSILength-TXIndex(length(TXIndex))];
+
+dataset_dB = NaN(length(TXIndex),K);
+
+for n = 1:length(TXIndex)
+    dataPoints = ((TXIndex(n)+1):(TXIndex(n)+RSSInumber(n)))';
+    dataset_dB(n,device(dataPoints)) = RSSI(dataPoints);
+end
+
+RSSI_mean = nanmean(dataset_dB)
+
+RSSI_mean1 = [-38.2857,-41.8421,-40.9091,-40.4384,-53.4737,-44.8947,...
+    -46.3500,-49.3810,-56.3750,-64.7143,-55.2143,-52.2630,-50.4375,-61.9375];
+RSSI_mean6 = [-36.6250,-40.2632,-39.6957,-39.1429,-51.6190,-43.9524,...
+    -44.8846,-48.2778,-54.9600,-63.9000,-54.4762,-51.0323,-49.0455,-59.6957];
+distances = [0.5,1,1.5,2,2.5,3,3.5,4,4.5,5,5.5,6,6.5,7];
+
+

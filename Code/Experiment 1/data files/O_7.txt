@@ -1,0 +1,44 @@
+[11:02:31:632054] From: Measure6 TX Power: 19.5
+[11:02:31:632054] SSID: Measure1 RSSI: -53
+[11:02:43:604319] From: Measure1 TX Power: 19.5
+[11:02:43:604319] SSID: Measure6 RSSI: -52
+[11:02:49:232920] From: Measure1 TX Power: 19.5
+[11:02:49:232920] SSID: Measure6 RSSI: -53
+[11:02:54:453433] From: Measure6 TX Power: 19.5
+[11:02:54:453433] SSID: Measure1 RSSI: -54
+[11:02:54:866873] From: Measure1 TX Power: 19.5
+[11:02:54:866873] SSID: Measure6 RSSI: -54
+[11:02:59:773340] From: Measure6 TX Power: 19.5
+[11:02:59:773340] SSID: Measure1 RSSI: -54
+[11:03:00:591739] From: Measure1 TX Power: 19.5
+[11:03:00:591739] SSID: Measure6 RSSI: -53
+[11:03:11:753785] From: Measure1 TX Power: 19.5
+[11:03:11:753785] SSID: Measure6 RSSI: -53
+[11:03:17:375769] From: Measure1 TX Power: 19.5
+[11:03:17:375769] SSID: Measure6 RSSI: -53
+[11:03:22:295210] From: Measure6 TX Power: 19.5
+[11:03:22:295210] SSID: Measure1 RSSI: -54
+[11:03:28:020559] From: Measure6 TX Power: 19.5
+[11:03:28:020559] SSID: Measure1 RSSI: -54
+[11:03:28:741605] From: Measure1 TX Power: 19.5
+[11:03:28:741605] SSID: Measure6 RSSI: -54
+[11:03:33:656352] From: Measure6 TX Power: 19.5
+[11:03:33:656352] SSID: Measure1 RSSI: -54
+[11:03:44:911248] From: Measure6 TX Power: 19.5
+[11:03:44:911248] SSID: Measure1 RSSI: -54
+[11:03:50:559521] From: Measure6 TX Power: 19.5
+[11:03:50:559521] SSID: Measure1 RSSI: -54
+[11:03:56:888091] From: Measure1 TX Power: 19.5
+[11:03:56:888091] SSID: Measure6 RSSI: -54
+[11:04:02:625713] From: Measure1 TX Power: 19.5
+[11:04:02:625713] SSID: Measure6 RSSI: -53
+[11:04:07:422022] From: Measure6 TX Power: 19.5
+[11:04:07:422022] SSID: Measure1 RSSI: -53
+[11:04:19:479148] From: Measure1 TX Power: 19.5
+[11:04:19:479148] SSID: Measure6 RSSI: -54
+[11:04:24:320310] From: Measure6 TX Power: 19.5
+[11:04:24:320310] SSID: Measure1 RSSI: -53
+[11:04:29:936421] From: Measure6 TX Power: 19.5
+[11:04:29:936421] SSID: Measure1 RSSI: -53
+[11:04:30:654209] From: Measure1 TX Power: 19.5
+[11:04:30:654209] SSID: Measure6 RSSI: -52

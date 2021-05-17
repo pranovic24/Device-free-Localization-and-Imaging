@@ -1,0 +1,88 @@
+[11:42:05:580064] From: Measure1 TX Power: 19.5
+[11:42:05:580064] SSID: Measure6 RSSI: -40
+[11:42:11:225644] From: Measure1 TX Power: 19.5
+[11:42:11:225644] SSID: Measure6 RSSI: -39
+[11:42:13:971820] From: Measure6 TX Power: 19.5
+[11:42:13:971820] SSID: Measure1 RSSI: -39
+[11:42:28:191613] From: Measure1 TX Power: 19.5
+[11:42:28:191613] SSID: Measure6 RSSI: -42
+[11:42:33:821430] From: Measure1 TX Power: 19.5
+[11:42:33:821430] SSID: Measure6 RSSI: -39
+[11:42:53:474133] From: Measure6 TX Power: 19.5
+[11:42:53:474133] SSID: Measure1 RSSI: -40
+[11:43:04:725667] From: Measure6 TX Power: 19.5
+[11:43:04:725667] SSID: Measure1 RSSI: -39
+[11:43:21:741078] From: Measure6 TX Power: 19.5
+[11:43:21:741078] SSID: Measure1 RSSI: -42
+[11:43:27:341091] From: Measure6 TX Power: 19.5
+[11:43:27:341091] SSID: Measure1 RSSI: -40
+[11:43:35:735538] From: Measure1 TX Power: 19.5
+[11:43:35:735538] SSID: Measure6 RSSI: -39
+[11:43:46:993226] From: Measure1 TX Power: 19.5
+[11:43:46:993226] SSID: Measure6 RSSI: -38
+[11:43:49:863682] From: Measure6 TX Power: 19.5
+[11:43:49:863682] SSID: Measure1 RSSI: -38
+[11:43:52:725030] From: Measure1 TX Power: 19.5
+[11:43:52:725030] SSID: Measure6 RSSI: -38
+[11:43:55:284961] From: Measure6 TX Power: 19.5
+[11:43:55:284961] SSID: Measure1 RSSI: -42
+[11:44:01:014062] From: Measure6 TX Power: 19.5
+[11:44:01:014062] SSID: Measure1 RSSI: -41
+[11:44:09:718240] From: Measure1 TX Power: 19.5
+[11:44:09:718240] SSID: Measure6 RSSI: -41
+[11:44:12:281208] From: Measure6 TX Power: 19.5
+[11:44:12:281208] SSID: Measure1 RSSI: -41
+[11:44:17:898779] From: Measure6 TX Power: 19.5
+[11:44:17:898779] SSID: Measure1 RSSI: -42
+[11:44:20:969779] From: Measure1 TX Power: 19.5
+[11:44:20:969779] SSID: Measure6 RSSI: -38
+[11:44:23:542711] From: Measure6 TX Power: 19.5
+[11:44:23:542711] SSID: Measure1 RSSI: -41
+[11:44:32:030835] From: Measure1 TX Power: 19.5
+[11:44:32:030835] SSID: Measure6 RSSI: -41
+[11:44:43:420471] From: Measure1 TX Power: 19.5
+[11:44:43:420471] SSID: Measure6 RSSI: -38
+[11:45:00:474829] From: Measure1 TX Power: 19.5
+[11:45:00:474829] SSID: Measure6 RSSI: -38
+[11:45:06:000063] From: Measure1 TX Power: 19.5
+[11:45:06:000063] SSID: Measure6 RSSI: -38
+[11:45:19:811851] From: Measure6 TX Power: 19.5
+[11:45:19:811851] SSID: Measure1 RSSI: -42
+[11:45:22:779283] From: Measure1 TX Power: 19.5
+[11:45:22:779283] SSID: Measure6 RSSI: -40
+[11:45:31:170387] From: Measure6 TX Power: 19.5
+[11:45:31:170387] SSID: Measure1 RSSI: -39
+[11:45:34:035161] From: Measure1 TX Power: 19.5
+[11:45:34:035161] SSID: Measure6 RSSI: -37
+[11:45:47:955543] From: Measure6 TX Power: 19.5
+[11:45:47:955543] SSID: Measure1 RSSI: -42
+[11:45:53:675997] From: Measure6 TX Power: 19.5
+[11:45:53:675997] SSID: Measure1 RSSI: -42
+[11:45:59:311724] From: Measure6 TX Power: 19.5
+[11:45:59:311724] SSID: Measure1 RSSI: -39
+[11:46:19:061416] From: Measure1 TX Power: 19.5
+[11:46:19:061416] SSID: Measure6 RSSI: -40
+[11:46:30:319909] From: Measure1 TX Power: 19.5
+[11:46:30:319909] SSID: Measure6 RSSI: -40
+[11:46:33:084569] From: Measure6 TX Power: 19.5
+[11:46:33:084569] SSID: Measure1 RSSI: -42
+[11:46:36:254483] From: Measure1 TX Power: 19.5
+[11:46:36:254483] SSID: Measure6 RSSI: -40
+[11:46:47:204077] From: Measure1 TX Power: 19.5
+[11:46:47:204077] SSID: Measure6 RSSI: -40
+[11:47:01:225260] From: Measure6 TX Power: 19.5
+[11:47:01:225260] SSID: Measure1 RSSI: -42
+[11:47:06:853989] From: Measure6 TX Power: 19.5
+[11:47:06:853989] SSID: Measure1 RSSI: -40
+[11:47:12:582142] From: Measure6 TX Power: 19.5
+[11:47:12:582142] SSID: Measure1 RSSI: -39
+[11:47:26:705102] From: Measure1 TX Power: 19.5
+[11:47:26:705102] SSID: Measure6 RSSI: -38
+[11:47:32:542723] From: Measure1 TX Power: 19.5
+[11:47:32:542723] SSID: Measure6 RSSI: -38
+[11:47:40:623584] From: Measure6 TX Power: 19.5
+[11:47:40:623584] SSID: Measure1 RSSI: -39
+[11:47:46:252274] From: Measure6 TX Power: 19.5
+[11:47:46:252274] SSID: Measure1 RSSI: -39
+[11:47:51:982553] From: Measure6 TX Power: 19.5
+[11:47:51:982553] SSID: Measure1 RSSI: -40
