@@ -1,4 +1,4 @@
-# Device-free-Localization-and-Imaging
+# Demonstrating Device-Free Localization based on Radio Tomographic Imaging through Simulations and Experimentation
 
 Location Based Services (LBSs) have led to an increase in demand for Device-Free Localization (DFL) in the indoor environment. Radio Tomographic Imaging (RTI) is one well- known localization algorithm that can estimate the position of a physical object on the basis of the received signal strength indicator (RSSI) changes in the environment that are acquired by Wi-Fi or Wireless Sensor Networks (WSNs). This thesis makes two significant contributions. The first contribution involves the demonstration of the RTI approach by utilizing full electromagnetic simulations of an indoor environment. In particular, we considered dielectric cylinders with varying permittivities but fixed radius in which 20 Wi-Fi nodes are deployed on the perimeter (3 m by 3 m) of a region to perform RTI. The RTI approach is based on the line- of-sight (LOS) weighting model with total variation-based regularization which is used to reconstruct and localize the position of the cylinder at high resolution. 
 
